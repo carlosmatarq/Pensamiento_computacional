@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2024-06-20T15:53:48.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="o0qmNLprrm2WLhE8wq2Q" version="24.5.5" type="github">
+  <diagram name="Página-1" id="oKNQI28xTgTub3vt7hd0">
+    <mxGraphModel dx="1500" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HYznbuixlKruYKhX6iYX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-1" target="HYznbuixlKruYKhX6iYX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#F08E81;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="364" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-2" value="Edad int" style="whiteSpace=wrap;html=1;fillColor=#F08E81;strokeColor=#FFFFFF;strokeWidth=2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-4" target="HYznbuixlKruYKhX6iYX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-4" value="&quot;ingresa tu edad&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#F08E81;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="364" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-2" target="HYznbuixlKruYKhX6iYX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-8" target="HYznbuixlKruYKhX6iYX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-8" value="Edad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-10" target="HYznbuixlKruYKhX6iYX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-17" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#F08E81;" vertex="1" connectable="0" parent="HYznbuixlKruYKhX6iYX-13">
+          <mxGeometry x="-0.2082" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-10" target="HYznbuixlKruYKhX6iYX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-16" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#F08E81;" vertex="1" connectable="0" parent="HYznbuixlKruYKhX6iYX-15">
+          <mxGeometry x="-0.2571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-10" value="Edad &amp;gt;= 18" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-12" value="&quot;Eres Menor de edad&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-14" value="&quot;Eres Mayor de edad&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-20" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#F08E81;" vertex="1" parent="1">
+          <mxGeometry x="347.00333333333333" y="640" width="133.33333333333331" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;exitX=0.48;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-14" target="HYznbuixlKruYKhX6iYX-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="518" />
+              <mxPoint x="270" y="610" />
+              <mxPoint x="414" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYznbuixlKruYKhX6iYX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#182E3E;fontColor=#1A1A1A;exitX=0.553;exitY=0.825;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HYznbuixlKruYKhX6iYX-12" target="HYznbuixlKruYKhX6iYX-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="516" />
+              <mxPoint x="560" y="610" />
+              <mxPoint x="414" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
